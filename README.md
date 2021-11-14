@@ -1,8 +1,10 @@
 # awesome Learning Apps [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 An "awesome" list of apps for learning something new and expanding knowledge.
 
-# What's an "awesome" list?
+_What's an "awesome" list?_
 It's a collection of links to other great stuff. Check out https://github.com/sindresorhus/awesome for more info and see other lists too!
+
+---
 
 ## 💼 Business 
 | Name | Description | Platform(s) | Pricing | Type |
@@ -32,14 +34,16 @@ It's a collection of links to other great stuff. Check out https://github.com/si
 | :--: | -- | :--: | :--: | :--: |
 | [Brilliant](https://brilliant.org/) | Geometery, Calculus, Biology, ... | Web App, Android, iOS | Freemium | Bite-sized |
 
+---
+
 # How can I contribute?
-## Do you want to suggest a new app, not listed above?  
+### Do you want to suggest a new app, not listed above?  
 - Visit [App Suggestions](https://github.com/ShahriarKh/awesome-learning-apps/discussions/categories/app-suggestions) and click on "New Discussion"!  
 
-## Found a Problem?
+### Found a Problem?
 - Visit [Problem Reports](https://github.com/ShahriarKh/awesome-learning-apps/discussions/categories/problem-reports) and click on "New Discussion"!  
 
 Prefer a "coding way"? Open a pull request!   
-_To avoid duplicates, Please do a simple search and see if somebody else has posted the same thing in the discussions before_
+_To avoid duplicates, Please do a simple search and see if somebody else has already posted the same thing in the discussions._
 
 
