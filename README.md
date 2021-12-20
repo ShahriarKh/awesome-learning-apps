@@ -6,6 +6,11 @@ It's a collection of links to other great stuff. Check out https://github.com/si
 
 ---
 
+## 🎡 Multiple Subjects
+| Name | Description | Platform(s) | Pricing | Type |
+| :--: | -- | :--: | :--: | :--: |
+| [Khan Academy](https://www.khanacademy.org/) | Math, Science, Computer Science, Arts | Web App, Android, iOS | Free | Video Courses + Quiz + Text |
+
 ## 💼 Business 
 | Name | Description | Platform(s) | Pricing | Type |
 | :--: | -- | :--: | :--: | :--: |
